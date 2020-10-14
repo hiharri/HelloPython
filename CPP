@@ -1,0 +1,9 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+
+{
+cout<<"Just for fun";
+
+
+}
